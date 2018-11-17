@@ -1,6 +1,6 @@
 ## Welcome to My Portfolio
 
-Masaki Nishikawaのポートフォリオサイトです。
+Masaki Nishikawaの[ポートフォリオサイト](https://chakimar.github.io/portfolio/)です。
 
 
 ### 最近使ってる技術
