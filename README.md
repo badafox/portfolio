@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to My Portfolio
 
-You can use the [editor on GitHub](https://github.com/chakimar/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Masaki Nishikawaのポートフォリオサイトです。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 最近使ってる技術
+Java/SpringBoot/Gradle/Maven/JUnit/Jenkins/Docker/Vagrant/Git
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 昔使ってた技術
+JavaEE/Struts/Ant/Android/Rails/SVN
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### ざっくりとした経歴
 
-1. Numbered
-2. List
+* ガラケー向けWebシステム開発
+* Webシステム用Androidブラウザ開発
+* ファイル連携システム開発
+* ファイル連携パッケージ開発
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Output
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* [Qiita](https://qiita.com/chakimar)
+* [Gist](https://gist.github.com/)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chakimar/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
